@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 from matplotlib.font_manager import FontProperties
 font = FontProperties(fname=r"c:\windows\fonts\simsun.ttc", size=14)    # 解决windows环境下画图汉字乱码问题
-
+#modify
 
 def linearRegression(alpha=0.01,num_iters=400):
     print u"加载数据...\n"
